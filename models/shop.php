@@ -1,8 +1,8 @@
 <?php
 // Class Product
-require_once __DIR__ . '/product.php';
+require_once __DIR__ . '/Product.php';
 // Class Category
-require_once __DIR__ . '/category.php';
+require_once __DIR__ . '/Category.php';
 
 // Shop class definition
 class Shop

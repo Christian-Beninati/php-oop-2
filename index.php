@@ -1,7 +1,7 @@
 <?php
 
 // Class Shop
-require_once __DIR__ . '/models/shop.php';
+require_once __DIR__ . '/models/Shop.php';
 
 // Categories
 $dogCategory = new Category('Dog');
